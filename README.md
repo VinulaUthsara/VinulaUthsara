@@ -8,5 +8,5 @@
 
 <p align = "center"><a href="https://www.linkedin.com/in/vinula-uthsara-673770168/"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png" width="32px" height="32px"></a> <a href="https://medium.com/@vinula9"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="32px" height="32px"></a>  </p>  
   	  
-**Visitors Count** 
+                        **Visitors Count**
 ![VisitorCount](https://profile-counter.glitch.me/{VinulaUthsara}/count.svg)
