@@ -1,4 +1,3 @@
-[![Vinula's github stats](https://github-readme-stats.vercel.app/api?username=VinulaUthsara&count_private=true&show_icons=true&theme=algolia)](https://github.com/VinulaUthsara/github-readme-stats)	
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='200"'>  	
 
